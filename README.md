@@ -15,7 +15,7 @@ int main()
 {
 	// User Info
 	std::string Name = "Yiğit Kaan";
-	int Age = 18;
+	int Age = 19;
 	std::string Country = "Turkey";
 	bool isStudent = true;
 	std::string Interests = "Developing software, learning, traveling, teaching and sleeping.";
